@@ -6,6 +6,13 @@ Simulación de limpieza de vehículos. Un coche-barco aparece varado en una isla
 
 Proyecto académico de Grupo 6, asignatura de Entornos Interactivos Avanzados.
 
+## Descargas
+
+Builds en [Releases](https://github.com/Javitax47/GarageWash/releases/tag/v1.0.0), fuera del repositorio por tamaño:
+
+- [`GarageWash-VR-MetaQuest.apk`](https://github.com/Javitax47/GarageWash/releases/download/v1.0.0/GarageWash-VR-MetaQuest.apk) — build standalone para Meta Quest.
+- [`GarageWash-Android.apk`](https://github.com/Javitax47/GarageWash/releases/download/v1.0.0/GarageWash-Android.apk) — versión AR para Android.
+
 ## Concepto
 
 - **Género:** simulación interactiva de limpieza de vehículos.
@@ -71,7 +78,7 @@ GarageWash/                          # proyecto Unity, versión VR
   Assets/XR/ XRI/ VRTemplateAssets/  # setup de interacción XR
   Packages/manifest.json
   GarageWash.exe                     # build de escritorio
-  GarageWash.apk                     # build Meta Quest standalone
+  GarageWash.apk                     # build Meta Quest standalone (no va en git, ver Descargas)
 
 GarageWashMobile/                    # proyecto Unity, versión AR Android
   Assets/Scripts/
@@ -79,7 +86,7 @@ GarageWashMobile/                    # proyecto Unity, versión AR Android
   Assets/Scenes/SampleScene.unity    # escena de la experiencia AR
   Assets/Resources/VuforiaConfiguration.asset
   Packages/manifest.json
-  GarageWash.apk                     # build Android AR
+  GarageWash.apk                     # build Android AR (no va en git, ver Descargas)
 
 GDD.pdf                 # diseño de la versión VR (Sprint 3A)
 GarageWashMobile.pdf    # diseño original de la versión AR (Sprint 2A)
@@ -123,13 +130,13 @@ Cada versión es un proyecto Unity independiente con su propio `Packages/manifes
 **VR (`GarageWash/`):**
 1. Añadir la carpeta `GarageWash/` como proyecto en Unity Hub.
 2. Abrir `Assets/Scenes/GarageWash.unity`.
-3. Para probarlo: SteamVR con enlace de escritorio, o Quest Link. Builds ya compilados: `GarageWash.exe` para escritorio y `GarageWash.apk` para Meta Quest standalone.
+3. Para probarlo: SteamVR con enlace de escritorio, o Quest Link. Build ya compilada para Meta Quest en [Descargas](#descargas).
 
 **AR Android (`GarageWashMobile/`):**
 1. Añadir la carpeta `GarageWashMobile/` como proyecto en Unity Hub.
 2. Hace falta una licencia de Vuforia Engine configurada en `Assets/Resources/VuforiaConfiguration.asset` para compilar y ejecutar.
 3. Abrir `Assets/Scenes/SampleScene.unity`, o `MenuPrincipal.unity` para el menú.
-4. Build ya compilado: `GarageWash.apk`. Se instala en un móvil Android y no necesita marcador impreso, basta apuntar a una superficie plana.
+4. Build ya compilada en [Descargas](#descargas). Se instala en un móvil Android y no necesita marcador impreso, basta apuntar a una superficie plana.
 
 ## Estado
 
