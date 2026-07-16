@@ -1,0 +1,49 @@
+# Carpetas que Unity regenera. Ancladas a la raiz de cada proyecto a proposito:
+# un patron suelto tipo Temp/ se tragaria Assets/XR/Temp/, que si son ajustes reales.
+GarageWash/[Ll]ibrary/
+GarageWash/[Tt]emp/
+GarageWash/[Oo]bj/
+GarageWash/[Bb]uild/
+GarageWash/[Bb]uilds/
+GarageWash/[Ll]ogs/
+GarageWash/[Mm]emoryCaptures/
+GarageWash/[Uu]ser[Ss]ettings/
+GarageWash/[Rr]ecordings/
+
+GarageWashMobile/[Ll]ibrary/
+GarageWashMobile/[Tt]emp/
+GarageWashMobile/[Oo]bj/
+GarageWashMobile/[Bb]uild/
+GarageWashMobile/[Bb]uilds/
+GarageWashMobile/[Ll]ogs/
+GarageWashMobile/[Mm]emoryCaptures/
+GarageWashMobile/[Uu]ser[Ss]ettings/
+GarageWashMobile/[Rr]ecordings/
+
+# Los APK se publican en Releases: GitHub rechaza cualquier fichero de mas de 100 MB
+# y el build de Quest pesa 886 MB.
+*.apk
+*.aab
+
+# Proyectos y soluciones que generan los IDE al abrir Unity
+.vs/
+.idea/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+crashlytics-build.properties
+
+Thumbs.db
+.DS_Store

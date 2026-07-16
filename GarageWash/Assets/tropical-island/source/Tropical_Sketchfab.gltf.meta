@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 7d497a9ebeb1105469b73215796005ed
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Areca_Palm
+    second: {fileID: 2100000, guid: a4b1dde3558ae854d8d5ed4e7d4328cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BeachBaked
+    second: {fileID: 2100000, guid: 856500a3635f8184088bebb1657e1d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat_Palm
+    second: {fileID: 2100000, guid: cf22f21a6f0e89d47ae48aff7b9d82e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: b5d96284e91362d45bd65302c95c4585, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palme
+    second: {fileID: 2100000, guid: 6a8868cab1f516d4f850802b1b031451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palme_Blaetter
+    second: {fileID: 2100000, guid: 3eb1b3c07d099c24c903fe2e1e29f794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RocksBig
+    second: {fileID: 2100000, guid: 9d1e7ce848b537a489cb855b5400c903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RocksSmall
+    second: {fileID: 2100000, guid: a2d296d3e4416ee44ac6e819fe75188e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Root
+    second: {fileID: 2100000, guid: 952af00ab77553c429de982c576a80db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skybox.001
+    second: {fileID: 2100000, guid: 4cc2d0343b486c444aa794c04bb3be54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Treibholz
+    second: {fileID: 2100000, guid: 6783145592f89214c9f192694b7a0a19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tropical_Palm
+    second: {fileID: 2100000, guid: c3b99438d17d94e449e097d8f25507ad, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _deduplicateResources: 0
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _addColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importBlendShapeNames: 1
+  _blendShapeFrameWeight:
+    _option: 0
+    _multiplier: 1
+  _importNormals: 0
+  _importTangents: 0
+  _importCamera: 2
+  _importAnimations: 2
+  _mecanimHumanoidFlip: 0
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _enableGpuInstancing: 0
+  _texturesReadWriteEnabled: 1
+  _generateMipMaps: 1
+  _useSceneNameIdentifier: 1
+  _textureCompression: -50
+  _gltfAsset: '<b>Generator: </b>Khronos glTF Blender I/O v1.2.75
+
+    <b>Version:
+    </b>2.0
+
+    
+
+    <b>Extras: </b>
+
+'
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: 1420621295076777170, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: -5786328506352420683, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: -8874480547572665405, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: -6478536213147159724, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: 23483539749281885, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: -5849007604647142739, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: -7664175343432215907, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: 4360014562996388588, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: 2030122847857789880, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: -8716430051109086023, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: 322393721838431751, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  - {fileID: 565185198322316740, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  textures:
+  - {fileID: 2800000, guid: 4b25e92d2f076a7488c91304704a27bc, type: 3}
+  - {fileID: 2800000, guid: fd1582362d0d45d40ac23660b66a66cb, type: 3}
+  - {fileID: 2800000, guid: e8c1d6713b232724c8b3c704e05d469f, type: 3}
+  - {fileID: 2800000, guid: d8b9da82e7f20cb4888db9da2cbfe143, type: 3}
+  - {fileID: 2800000, guid: fc92621f153f9a043b5de05cec538228, type: 3}
+  - {fileID: 2800000, guid: 8a6a1836a88af074da54b0fa32b73f72, type: 3}
+  - {fileID: 2800000, guid: 875afe334602eee4899376e6095691d7, type: 3}
+  - {fileID: 2800000, guid: 7153e61cdf7598b44b6572ad4a03daa2, type: 3}
+  - {fileID: 2800000, guid: 420771f527ac1ae478e3634fccec95e8, type: 3}
+  - {fileID: 2800000, guid: 7f0fb791f19002642a8f45b4c20f1fb9, type: 3}
+  - {fileID: 2800000, guid: 7eb7cb4379edec74da24bd064b2c3ef5, type: 3}
+  - {fileID: 235589224802321297, guid: 7d497a9ebeb1105469b73215796005ed, type: 3}
+  hasSceneData: 1
+  hasAnimationData: 1
+  hasMaterialData: 1
+  hasTextureData: 1
+  animations:
+  - name: ArmatureAction
+  _extensions: []
+  _textures:
+  - texture: {fileID: 2800000, guid: 4b25e92d2f076a7488c91304704a27bc, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: fd1582362d0d45d40ac23660b66a66cb, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: e8c1d6713b232724c8b3c704e05d469f, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: d8b9da82e7f20cb4888db9da2cbfe143, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: fc92621f153f9a043b5de05cec538228, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 8a6a1836a88af074da54b0fa32b73f72, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 875afe334602eee4899376e6095691d7, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 7153e61cdf7598b44b6572ad4a03daa2, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 420771f527ac1ae478e3634fccec95e8, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 7f0fb791f19002642a8f45b4c20f1fb9, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {fileID: 2800000, guid: 7eb7cb4379edec74da24bd064b2c3ef5, type: 3}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  - texture: {instanceID: 0}
+    shouldBeLinear: 0
+    shouldBeNormalMap: 0
+  _mainAssetIdentifier: scenes/Scene
+  _importPlugins: []
